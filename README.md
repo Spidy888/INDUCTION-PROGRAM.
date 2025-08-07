@@ -37,3 +37,24 @@ Discussion on real-world applications of fluid mechanics.
 
 # ✅ Conclusion
 The induction program offered a holistic welcome blending spirituality, academics, and hands-on exposure. It successfully introduced us to college life with positivity and purpose.
+
+# Day 2
+College Induction Program Report
+
+# 1. Expert Lecture on Wellness
+Time: 1:00 PM – 2:00 PM
+Dr. Arashdeep Singh delivered an enlightening session on “Food: A Pivotal Role in Student's Overall Wellness.” He highlighted the vital connection between diet, mental clarity, and academic performance.
+
+# 2. Causmic Club Session & Induction Launch
+Time: 2:00 PM – 3:00 PM
+The Causmic Club conducted an interactive session introducing the club’s activities. The formal Induction Launch followed, welcoming new students to the college environment.
+
+# 3. GitHub Tutorial
+Time: 3:00 PM – 4:15 PM
+The day concluded with a hands-on GitHub tutorial, covering basics of version control and collaborative coding.
+
+
+
+
+
+
